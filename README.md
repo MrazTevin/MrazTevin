@@ -1,6 +1,6 @@
 ### Hi there I'm Tevin Milla 👋
 
-#### 📫 How to reach me: <a href="mailto:millatevin@gmail.com">millatevin@gmail.com</a>
+> #### 📫 How to reach me: <a href="mailto:millatevin@gmail.com">millatevin@gmail.com</a>
 <!--
 **MrazTevin/MrazTevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
