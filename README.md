@@ -1,4 +1,4 @@
-<div>
+<div style="margin-right: 30px;">
   
 ### Hi there I'm Tevin Milla 👋
 
