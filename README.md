@@ -5,7 +5,6 @@
 > ###  How to reach me: 
 >   <a href="mailto:millatevin@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=green" /></a>
   
-<hr>
 
 </div>
 <!--
