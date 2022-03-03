@@ -3,7 +3,7 @@
 ## Hello World!  I'm Tevin Milla 👋
 
 > ###  How to reach me: 
->   <a href="mailto:millatevin@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=green" /></a>
+>   <a href="mailto:millatevin@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=#4285F4" /></a> <a href="https://www.linkedin.com/in/tevin-milla-597307145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 ### About Me
   <hr>
